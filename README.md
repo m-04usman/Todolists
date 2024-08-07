@@ -17,13 +17,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/react-crud-app.git
+    git clone https://github.com/m-04usman/Todolists.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd react-crud-app
+    cd Todolists
     ```
 
 3. Install the dependencies:
@@ -37,10 +37,10 @@ To run this project locally, follow these steps:
 1. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:......`.
 
 ## Folder Structure
 
